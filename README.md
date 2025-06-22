@@ -22,7 +22,7 @@ This is a simple **Tic Tac Toe Game** built using **HTML, CSS, and JavaScript**.
 
 ## 🚀 How to Use
 1.Clone the repo to your local machine:
-git clone https://github.com/your-username/tic-tac-toe-game.git
+git clone https://github.com/Hetvi-Boricha/tic-tac-toe-game.git
 
 2.Navigate to the project directory:
 cd tic-tac-toe-game
